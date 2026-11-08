@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+frontend/dist/
+*.db
+backend/data/
+data/models/*.joblib
+data/models/metrics.json
+.env
+.DS_Store
